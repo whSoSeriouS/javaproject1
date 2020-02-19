@@ -8,7 +8,7 @@
 <atom:link href="https://grafana.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>
-Everything You Need to Know About the Splunk Plugin for Grafana
+Everything You Need to Know About <script>alert(1)</script>the Splunk Plugin for Grafana
 </title>
 <link>
 https://grafana.com/blog/2020/02/18/everything-you-need-to-know-about-the-splunk-plugin-for-grafana/?utm_source=grafana&utm_medium=rss
