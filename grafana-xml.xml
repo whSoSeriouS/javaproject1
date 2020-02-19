@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Blog on Grafana Labs</title>
+<link>https://grafana.com/blog/</link>
+<description>Recent content in Blog on Grafana Labs</description>
+<generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<atom:link href="https://grafana.com/blog/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>
+Everything You Need to Know About the Splunk Plugin for Grafana
+</title>
+<link>
+https://grafana.com/blog/2020/02/18/everything-you-need-to-know-about-the-splunk-plugin-for-grafana/?utm_source=grafana&utm_medium=rss
+</link>
+<pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+<guid>
+https://grafana.com/blog/2020/02/18/everything-you-need-to-know-about-the-splunk-plugin-for-grafana/?utm_source=grafana&utm_medium=rss
+</guid>
+<description>
+Last week on Slack: <script>alert(1)</script>Eldin: Hey Christine, do you remember the first time you viewed a log file? Christine: Oh yes. I used Splunk as a support engineer and I remember. You? Eldin: I believe it was early 2000s. I was installing Slackware and a few network cards for a DIY router, and logs were critical. Hello again! We are Eldin and Christine from Solutions Engineering &ndash; a team at Grafana that is passionate about connecting people to our products &ndash; reporting back for duty.
+</description>
+</item>
+</channel>
+</rss>
